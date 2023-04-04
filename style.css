@@ -13,7 +13,7 @@ section{
 .home{
     width: 100%;
     float: left;
-    background: url("/images/banner/banner2.png");
+    background: url("images/banner/banner2.png");
     background-repeat: no-repeat;
     height: 809px;
     margin-top: -70px;
@@ -147,7 +147,7 @@ button{
     margin-right: 30px;
 }
 .poster{
-    background: url("/images/watch.png");
+    background: url("images/watch.png");
     background-repeat: no-repeat;
     margin-top: 80px;
     margin-left: 120px;
@@ -158,7 +158,7 @@ button{
     color: white;
 }
 .poster-image{
-    background: url("/images/gradient3.png");
+    background: url("images/gradient3.png");
     background-repeat: no-repeat;
     width: 1000px;
     height: 250px;
